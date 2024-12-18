@@ -4,13 +4,13 @@
 </h1>
 
 <div  align="center" >
-- 🌱 Estou em transição de carreira e atualmente estou estudando Dsenvolvimento Web Front-End
+- 🌱 Estudando Dsenvolvimento Web Front-End
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,javascript,photoshop,premiere" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,github,git,figma" />
 </div>
 
 <h2 align="center" >⚡Stats⚡</h2>
